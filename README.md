@@ -12,7 +12,7 @@
 ## Key Features
 
 * Uses employeeNumber field for unique ID (Change for your enviroment)
-* Diable User Account
+* Disable User Account
 * Create file containing existing groups of user
 * Output manager to file created 
 * Remove all groups from user
